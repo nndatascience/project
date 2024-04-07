@@ -1,0 +1,8 @@
+name: project-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - ipykernel
+prefix: C:\Users\Natalie\miniconda3\envs\dstoolbox
